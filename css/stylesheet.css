@@ -149,7 +149,7 @@ body {
     font-family: var(--body-font);
     }
     h1, h2, h3, h4, h5, h6 {
-    	font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
+    	  font-family: "Roboto", sans-serif;
     }
     h1 {
     font-size: calc(28px + (72 - 40) * (100vw - 400px) / (1800 - 400));
@@ -181,7 +181,7 @@ body {
         color: var(--white);
         padding: 15px 32px;
         text-align: center;
-        font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif; 
+        font-family: "Roboto", sans-serif;
         display: inline-block;
         font-size: calc(16px + (20 - 16) * (100vw - 400px) / (1800 - 400));
         width: fit-content;
