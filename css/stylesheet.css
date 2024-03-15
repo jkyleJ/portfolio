@@ -5,12 +5,6 @@ html {
     scroll-behavior: smooth;
     }
 
-.space-grotesk-<uniquifier> {
-  font-family: "Space Grotesk", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
 
 :root {
     /* These are global variables that you can use in your CSS */
@@ -65,9 +59,7 @@ header {
 
         
         nav ul li a {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+        font-family: Impact, Black,sans serif; 
         color: var(--black);
         margin: 20px;
         }
@@ -157,9 +149,7 @@ body {
     font-family: var(--body-font);
     }
     h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+    	font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
     }
     h1 {
     font-size: calc(28px + (72 - 40) * (100vw - 400px) / (1800 - 400));
